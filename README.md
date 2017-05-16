@@ -1,2 +1,2 @@
 # PySQL
-SQL interpreter for Python
+Coming soon - SQL interpreter for Python 
